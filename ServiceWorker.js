@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Project-Mostly-Introverts-0.1.0";
 const contentToCache = [
-    "Build/BUILDS.loader.js",
-    "Build/BUILDS.framework.js",
-    "Build/BUILDS.data",
-    "Build/BUILDS.wasm",
+    "Build/BUILDSSSSSSSSSSSSSSSS.loader.js",
+    "Build/BUILDSSSSSSSSSSSSSSSS.framework.js",
+    "Build/BUILDSSSSSSSSSSSSSSSS.data",
+    "Build/BUILDSSSSSSSSSSSSSSSS.wasm",
     "TemplateData/style.css"
 
 ];
